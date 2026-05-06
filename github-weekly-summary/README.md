@@ -99,14 +99,6 @@ to output a plain HTML string.
 
 ---
 
-## 📸 Execution Screenshot
-
-> Replace with a real screenshot after your first successful test run.
-
-![Execution Screenshot](screenshot/execution.png)
-
----
-
 ## 🐛 Troubleshooting
 
 | Symptom | Fix |
